@@ -3,7 +3,7 @@ Aptly Notified is a simple bash script to send email notifications of apt packag
 
 ## Usage
 ```bash
-git pull https://github.com/kennyparsons/aptly-notified.git
+git clone https://github.com/kennyparsons/aptly-notified.git
 chmod +x aptly-notified/aptly-notified.sh
 ```
 Run the script via cron or systemd timers. 
